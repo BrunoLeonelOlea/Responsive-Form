@@ -1,0 +1,13 @@
+body {
+  background: lemonchiffon;
+  background: linear-gradient(to right, #2c3e50, #bdc3c7 );
+  font-family: "Noto Sans KR", sans-serif;
+}
+.bg {
+  background-image: url(/images/pexels-photo.jpeg);
+  background-position: left;
+  background-size: cover;
+}
+#container {
+  padding: 0 4px;
+}
